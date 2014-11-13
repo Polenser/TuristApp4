@@ -8,5 +8,6 @@ namespace TuristApp4
 {
     class DancingBear
     {
+        public string Name { get; set; }
     }
 }
